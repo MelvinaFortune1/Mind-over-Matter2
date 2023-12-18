@@ -1,0 +1,64 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rosybrown;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.5rem;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+body {
+  background-color: beige;
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  color: black;
+  margin: 0 auto;
+  width:100%;
+  text-align:center;
+
+
+}
+
+
+html {
+  background-color: beige;
+}
+
+/* card css*/
+
+.card {
+  float: right;
+  max-width: 400px;
+  width: 100%;
+  margin:0 auto;
+}
+
+.card2{
+  float: left;
+}
+
+.card4{
+  color:white;
+  background-color: rosybrown;
+}
+
+/*carousel css*/
+.carousel-caption{
+  color:black;
+  background-color:white;
+}
+
+
+
+/*DEVELOPER: Melvina Fortune, IS117-001, Fall 2023*/
